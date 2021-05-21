@@ -2,6 +2,8 @@ package com.cg.oms.entity;
 
 public class Admission
 {
+
+	//admission
 	private String emailId;
 	private String applicationId;
 	private String admissionStatus;//Confirm after payement done;
